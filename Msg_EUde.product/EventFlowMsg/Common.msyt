@@ -1,0 +1,19 @@
+---
+group_count: 2
+atr1_unknown: 4
+entries:
+  Ichigeki_Escape_Air_001:
+    attributes: NPC_GodVoice
+    contents:
+      - text: Eine Stimme ruft dich...
+  Relic_Contact_001:
+    attributes: NPC_GodVoice
+    contents:
+      - text: "Der Titan hat die "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Verheerung Ganon
+      - control:
+          kind: reset_colour
+      - text: " in\nSchloss Hyrule ins Visier genommen...\nEs ist zu gefährlich, sich ihm zu nähern."

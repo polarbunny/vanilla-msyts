@@ -1,0 +1,34 @@
+---
+group_count: 2
+atr1_unknown: 0
+entries:
+  "0001":
+    contents:
+      - text: "Если вы выберете задание\nи нажмете "
+      - control:
+          kind: icon
+          icon:
+            a: 10
+      - text: ", на карте\nпоявится "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: текущая цель
+      - control:
+          kind: reset_colour
+      - text: "."
+  "0002":
+    contents:
+      - text: "Новый режим — "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: «Путь Героя»
+      - control:
+          kind: reset_colour
+      - text: ":\nоткрыв карту, нажмите "
+      - control:
+          kind: icon
+          icon:
+            x: 38
+      - text: ",\nчтобы увидеть свой путь."

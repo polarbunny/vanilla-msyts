@@ -1,0 +1,19 @@
+---
+group_count: 17
+atr1_unknown: 0
+entries:
+  "0000":
+    contents:
+      - text: "Het legendarische zwaard dat het onheil\nverdrijft. Link heeft de kracht van het zwaard\nvergroot door de zwaardproef te ondergaan."
+  "0001":
+    contents:
+      - text: "Het legendarische zwaard dat het onheil\nverdrijft. Link heeft de volledige kracht van\nhet zwaard ontketend door de zwaardproef\nte voltooien."
+  "0004":
+    contents:
+      - text: Bekijken
+  Pa_Gear_00-Pa_Param_06-T_MaxText_00:
+    contents:
+      - text: Totaal genezen
+  Pa_Gear_01-Pa_Param_06-T_MaxText_00:
+    contents:
+      - text: Totaal genezen

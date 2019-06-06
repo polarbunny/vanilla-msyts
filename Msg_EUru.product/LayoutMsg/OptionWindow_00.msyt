@@ -1,0 +1,172 @@
+---
+group_count: 37
+atr1_unknown: 0
+entries:
+  "0001":
+    contents:
+      - text: Инвертировать управление камерой по вертикали.
+  "0002":
+    contents:
+      - text: Инвертировать управление камерой по горизонтали.
+  "0003":
+    contents:
+      - text: "Использовать для прыжка "
+      - control:
+          kind: icon
+          icon: b
+      - text: ", а для рывка — "
+      - control:
+          kind: icon
+          icon:
+            x: 12
+      - text: "."
+  "0004":
+    contents:
+      - text: Использовать в игре прицеливание с помощью гироскопа.
+  "0005":
+    contents:
+      - text: ルビを表示します
+  "0006":
+    contents:
+      - text: Зафиксировать мини-карту (север всегда вверху).
+  "0007":
+    contents:
+      - text: Изменить вид основного экрана игры.
+  "0008":
+    contents:
+      - text: Изменить скорость вращения камеры при осматривании.
+  "0009":
+    contents:
+      - text: Изменить настройки amiibo.
+  "0010":
+    contents:
+      - text: Очень низкая
+  "0011":
+    contents:
+      - text: Низкая
+  "0012":
+    contents:
+      - text: Обычная
+  "0013":
+    contents:
+      - text: Высокая
+  "0014":
+    contents:
+      - text: Очень высокая
+  "0015":
+    contents:
+      - text: Не использовать amiibo
+  "0016":
+    contents:
+      - text: Использовать amiibo
+  "0017":
+    contents:
+      - text: Изменить степень прозрачности диалогового окна.
+  "0019":
+    contents:
+      - text: Вертикальная инверсия
+  "0020":
+    contents:
+      - text: Горизонтальная инверсия
+  "0021":
+    contents:
+      - text: Смена кнопки прыжка
+  "0022":
+    contents:
+      - text: Управление движением
+  "0023":
+    contents:
+      - text: ルビ表示
+  "0024":
+    contents:
+      - text: Статичная мини-карта
+  "0025":
+    contents:
+      - text: Чувствительность камеры
+  "0026":
+    contents:
+      - text: amiibo
+  "0027":
+    contents:
+      - text: Экранный интерфейс
+  "0028":
+    contents:
+      - text: Диалоговое окно
+  "0029":
+    contents:
+      - text: Обычный
+  "0030":
+    contents:
+      - text: Профи
+  "0032":
+    contents:
+      - text: Обычное
+  "0033":
+    contents:
+      - text: Затемненное
+  "0034":
+    contents:
+      - text: Язык дубляжа
+  "0035":
+    contents:
+      - text: Изменить
+  "0036":
+    contents:
+      - text: Язык системы
+  "0037":
+    contents:
+      - text: Японский
+  "0038":
+    contents:
+      - text: Английский
+  "0039":
+    contents:
+      - text: Французский (Франция)
+  "0040":
+    contents:
+      - text: Французский (Канада)
+  "0041":
+    contents:
+      - text: Немецкий
+  "0042":
+    contents:
+      - text: Испанский (Испания)
+  "0043":
+    contents:
+      - text: Испанский (Лат. Америка)
+  "0044":
+    contents:
+      - text: Итальянский
+  "0045":
+    contents:
+      - text: Русский
+  "0046":
+    contents:
+      - text: Изменить язык дубляжа.
+  "0047":
+    contents:
+      - text: Очки VR Toy-Con
+  "0048":
+    contents:
+      - text: Играть с очками VR Toy-Con.
+  "0049":
+    contents:
+      - text: Использовать
+  "0050":
+    contents:
+      - text: Не использовать
+  Pa_GuideB_00-T_Guide_00:
+    contents:
+      - text: Назад
+  Pa_GuideY_00-T_Guide_00:
+    contents:
+      - text: По умолчанию
+  Pa_SlideBtn_00-Pa_Btn_00-T_BtnOFF_00:
+    contents:
+      - text: Выкл.
+  Pa_SlideBtn_00-Pa_Btn_00-T_BtnON_00:
+    contents:
+      - text: Вкл.
+  T_OptionTitle_00:
+    contents:
+      - text: Настройки

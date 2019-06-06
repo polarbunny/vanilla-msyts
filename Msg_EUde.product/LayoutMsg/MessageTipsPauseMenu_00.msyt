@@ -1,0 +1,34 @@
+---
+group_count: 2
+atr1_unknown: 0
+entries:
+  "0001":
+    contents:
+      - text: "Wenn du eine Aufgabe\nauswählst und "
+      - control:
+          kind: icon
+          icon:
+            a: 10
+      - text: " drückst,\nwird ihr "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Zielpunkt
+      - control:
+          kind: reset_colour
+      - text: " angezeigt."
+  "0002":
+    contents:
+      - text: "Der "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Pfad des Helden
+      - control:
+          kind: reset_colour
+      - text: " wurde der\nKarte hinzugefügt. Drücke "
+      - control:
+          kind: icon
+          icon:
+            x: 38
+      - text: ",\num deinen Weg zu verfolgen."

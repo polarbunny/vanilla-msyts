@@ -1,0 +1,19 @@
+---
+group_count: 2
+atr1_unknown: 4
+entries:
+  Ichigeki_Escape_Air_001:
+    attributes: NPC_GodVoice
+    contents:
+      - text: Раздается чей-то голос...
+  Relic_Contact_001:
+    attributes: NPC_GodVoice
+    contents:
+      - text: "Чудище целится в "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Ганона "
+      - control:
+          kind: reset_colour
+      - text: "в замке\nХайрул. Лучше к нему не подходить."

@@ -1,0 +1,130 @@
+---
+group_count: 53
+atr1_unknown: 0
+entries:
+  "0004":
+    contents:
+      - text: Annulla
+  "0019":
+    contents:
+      - text: Adesso non puoi salvare.
+  "0024":
+    contents:
+      - text: Usa
+  "0025":
+    contents:
+      - text: Tira fuori
+  "0027":
+    contents:
+      - text: Usa
+  "0028":
+    contents:
+      - text: Metti via
+  "0029":
+    contents:
+      - text: Scarta
+  "0030":
+    contents:
+      - text: Vuoi tornare allo schermo del titolo?
+  "0031":
+    contents:
+      - text: Schermo del titolo
+  "0032":
+    contents:
+      - text: Mangia
+  "0034":
+    contents:
+      - text: Ricetta
+  "0040":
+    contents:
+      - text: Bevi
+  "0048":
+    contents:
+      - text: Attiva
+  "0049":
+    contents:
+      - text: Disattiva
+  "0054":
+    contents:
+      - text: Guarda il ricordo
+  "0058":
+    contents:
+      - text: Vuoi sovrascrivere i dati precedenti?
+  "0059":
+    contents:
+      - text: Nuova partita
+  "0062":
+    contents:
+      - text: "Vuoi riportare tutte le opzioni alle\nimpostazioni di partenza?"
+  "0063":
+    contents:
+      - text: Impostazioni iniziali
+  "0064":
+    contents:
+      - text: "Vuoi avviare il Nintendo eShop\nper verificare i contenuti scaricabili?"
+  "0065":
+    contents:
+      - text: OK
+  "0066":
+    contents:
+      - text: "Per accedere a contenuti scaricabili acquistati,\ndopo aver completato il download chiudi il software\n\"The Legend of Zelda: Breath of the Wild\" e riavvialo."
+  "0067":
+    contents:
+      - text: OK
+  "0068":
+    contents:
+      - text: "Nel Nintendo eShop sono disponibili dei contenuti\nscaricabili. Vuoi avviare il Nintendo eShop?"
+  "0069":
+    contents:
+      - text: "Puoi cambiare la lingua delle voci solo dallo schermo\ndel titolo. Vuoi tornare allo schermo del titolo?\n\nI progressi non salvati andranno persi."
+  "0070":
+    contents:
+      - text: "Per cambiare la lingua delle voci devi prima scaricare\ngratuitamente dei contenuti aggiuntivi (DLC) dal\nNintendo eShop. Vuoi accedere al Nintendo eShop?"
+  "0071":
+    contents:
+      - text: Colloca
+  "0072":
+    contents:
+      - text: "Per cambiare la lingua dei dialoghi devi scaricare\ni dati di aggiornamento più recenti e la versione più\nrecente dei contenuti aggiuntivi dal Nintendo eShop.\nVuoi accedere al Nintendo eShop?"
+  "0073":
+    contents:
+      - text: "Non hai la versione più recente dei contenuti aggiuntivi\nperciò, anche avviando il gioco, i contenuti aggiuntivi non\nsaranno disponibili. Vuoi accedere al Nintendo eShop\nper aggiornare i contenuti aggiuntivi?"
+  "0074":
+    contents:
+      - text: "Non hai la versione più recente dei contenuti aggiuntivi,\nperciò questi non saranno disponibili nel gioco."
+  "0075":
+    contents:
+      - text: "Vuoi tornare allo schermo del titolo?\nI progressi che non sono stati salvati andranno persi."
+  "0076":
+    contents:
+      - text: "Questo gioco è compatibile con il visore VR Toy-Con.\nVuoi utilizzarlo?"
+  "0077":
+    contents:
+      - text: "Giocherai in modalità normale e il visore VR non sarà\nutilizzato. Va bene?"
+  "0078":
+    contents:
+      - text: Usa il visore VR
+  "0079":
+    contents:
+      - text: Non usare il visore VR
+  "0081":
+    contents:
+      - text: "La modalità VR è stata disattivata dal filtro famiglia.\nPuoi giocare in modalità normale o cambiare le\nimpostazioni del filtro famiglia nelle Impostazioni di\nsistema o con l'app Filtro famiglia per Nintendo Switch."
+  T_TextAdd_00:
+    contents:
+      - text: "Le seguenti informazioni vanno lette da un adulto:"
+  T_TextAdd_01:
+    contents:
+      - text: "Durante l'utilizzo del visore VR Toy-Con..."
+  T_TextAdd_02:
+    contents:
+      - text: Gioca soltanto in posizione seduta.
+  T_TextAdd_03:
+    contents:
+      - text: Presta attenzione agli oggetti e alle persone attorno a te.
+  T_TextAdd_04:
+    contents:
+      - text: Assicurati di prenderti pause regolarmente.
+  T_TextAdd_05:
+    contents:
+      - text: "Disattiva l'uso della modalità VR per i bambini di 6 anni di età o meno."

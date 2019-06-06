@@ -1,0 +1,28 @@
+---
+group_count: 7
+atr1_unknown: 0
+entries:
+  "0000":
+    contents:
+      - text: Non puoi recuperare ulteriori cuori.
+  "0001":
+    contents:
+      - text: Annulla
+  "0002":
+    contents:
+      - text: Usa
+  "0003":
+    contents:
+      - text: Mangia
+  "0004":
+    contents:
+      - text: Bevi
+  "0005":
+    contents:
+      - text: Non puoi recuperare altro vigore.
+  "0006":
+    contents:
+      - text: "Il punto di teletrasporto attuale verrà\ncancellato. Vuoi proseguire?"
+  "0007":
+    contents:
+      - text: Sì

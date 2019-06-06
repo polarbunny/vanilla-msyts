@@ -1,0 +1,19 @@
+---
+group_count: 2
+atr1_unknown: 4
+entries:
+  Ichigeki_Escape_Air_001:
+    attributes: NPC_GodVoice
+    contents:
+      - text: Een stem spreekt je aan...
+  Relic_Contact_001:
+    attributes: NPC_GodVoice
+    contents:
+      - text: "De Titaan staat naar "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Ganon
+      - control:
+          kind: reset_colour
+      - text: " in Kasteel\nHyrule gericht... Het is te gevaarlijk om\ndichtbij te komen."

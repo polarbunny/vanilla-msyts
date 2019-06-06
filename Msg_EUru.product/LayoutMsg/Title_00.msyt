@@ -1,0 +1,43 @@
+---
+group_count: 23
+atr1_unknown: 0
+entries:
+  "0000":
+    contents:
+      - text: Продолжить
+  "0001":
+    contents:
+      - text: Новая игра
+  "0002":
+    contents:
+      - text: Настройки
+  "0003":
+    contents:
+      - text: amiibo
+  "0004":
+    contents:
+      - text: Загружаемый контент
+  "0005":
+    contents:
+      - text: DLC приобретен
+  "0009":
+    contents:
+      - text: Режим мастера
+  "0010":
+    contents:
+      - text: Обычный режим
+  "0011":
+    contents:
+      - text: Демоверсия
+  "0012":
+    contents:
+      - text: Начать в лесу Духов
+  "0013":
+    contents:
+      - text: Начать с начала
+  T_C_01:
+    contents:
+      - text: ©
+  T_DummyText_00:
+    contents:
+      - text: Режим мастера

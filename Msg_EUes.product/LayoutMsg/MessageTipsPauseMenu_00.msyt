@@ -1,0 +1,34 @@
+---
+group_count: 2
+atr1_unknown: 0
+entries:
+  "0001":
+    contents:
+      - text: "Pulsa "
+      - control:
+          kind: icon
+          icon:
+            a: 10
+      - text: " sobre la misión\nque hayas seleccionado para\nver el "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "destino "
+      - control:
+          kind: reset_colour
+      - text: en el mapa.
+  "0002":
+    contents:
+      - text: "Se ha añadido la función "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Senda\ndel héroe"
+      - control:
+          kind: reset_colour
+      - text: ". Consulta tu recorrido\npulsando "
+      - control:
+          kind: icon
+          icon:
+            x: 38
+      - text: " en el mapa."

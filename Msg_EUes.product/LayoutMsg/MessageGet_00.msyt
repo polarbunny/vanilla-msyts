@@ -1,0 +1,19 @@
+---
+group_count: 17
+atr1_unknown: 0
+entries:
+  "0000":
+    contents:
+      - text: "La legendaria espada destructora del Mal.\nSu hoja brilla con un aura sagrada capaz de\nhacer frente al cataclismo. Has incrementado\nsu poder en el santuario de la espada."
+  "0001":
+    contents:
+      - text: "La legendaria espada destructora del Mal.\nSu hoja brilla con un aura sagrada capaz de\nhacer frente al cataclismo. Su poder real\nha despertado en el santuario de la espada."
+  "0004":
+    contents:
+      - text: Abrir la alforja
+  Pa_Gear_00-Pa_Param_06-T_MaxText_00:
+    contents:
+      - text: Al máximo
+  Pa_Gear_01-Pa_Param_06-T_MaxText_00:
+    contents:
+      - text: Al máximo

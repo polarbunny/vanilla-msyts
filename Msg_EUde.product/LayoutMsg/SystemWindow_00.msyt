@@ -1,0 +1,130 @@
+---
+group_count: 53
+atr1_unknown: 0
+entries:
+  "0004":
+    contents:
+      - text: Abbrechen
+  "0019":
+    contents:
+      - text: Speichern ist momentan nicht möglich.
+  "0024":
+    contents:
+      - text: Verwenden
+  "0025":
+    contents:
+      - text: In die Hand
+  "0027":
+    contents:
+      - text: Ausrüsten
+  "0028":
+    contents:
+      - text: Ablegen
+  "0029":
+    contents:
+      - text: Wegwerfen
+  "0030":
+    contents:
+      - text: "Möchtest du zum Titelbildschirm\nzurückkehren?"
+  "0031":
+    contents:
+      - text: Zum Titelbildschirm
+  "0032":
+    contents:
+      - text: Essen
+  "0034":
+    contents:
+      - text: Rezept
+  "0040":
+    contents:
+      - text: Trinken
+  "0048":
+    contents:
+      - text: Aktivieren
+  "0049":
+    contents:
+      - text: Deaktivieren
+  "0054":
+    contents:
+      - text: Erinnerung ansehen
+  "0058":
+    contents:
+      - text: "Die bisherigen automatisch angelegten Speicherdaten\nwerden überschrieben. Bist du damit einverstanden?"
+  "0059":
+    contents:
+      - text: Neues Spiel
+  "0062":
+    contents:
+      - text: Möchtest du zu den Grundeinstellungen zurückkehren?
+  "0063":
+    contents:
+      - text: Grundeinstellungen
+  "0064":
+    contents:
+      - text: "Möchtest du den Nintendo eShop aufrufen, um die\nverfügbaren herunterladbaren Inhalte anzusehen?"
+  "0065":
+    contents:
+      - text: Ja
+  "0066":
+    contents:
+      - text: "Nachdem erworbene Inhalte heruntergeladen wurden,\nmusst du „The Legend of Zelda: Breath of the Wild“ neu\nstarten, um sie zu aktivieren."
+  "0067":
+    contents:
+      - text: OK
+  "0068":
+    contents:
+      - text: "Im Nintendo eShop sind herunterladbare Inhalte \nverfügbar. Möchtest du jetzt den Nintendo eShop\naufrufen?"
+  "0069":
+    contents:
+      - text: "Die Audio-Sprache kann nur vom Titelbildschirm aus\ngewechselt werden. Möchtest du zum Titelbildschirm\nzurückkehren?\nNicht gespeicherter Fortschritt geht dabei verloren."
+  "0070":
+    contents:
+      - text: "Um die Audio-Sprache wechseln zu können, musst\ndu zuerst ein kostenloses Update aus dem\nNintendo eShop herunterladen. Möchtest du den\nNintendo eShop jetzt aufrufen?"
+  "0071":
+    contents:
+      - text: Platzieren
+  "0072":
+    contents:
+      - text: "Um die Audio-Sprache ändern zu können, musst du das\nneueste Update der Software und die neueste Version\ndes Inhaltes besitzen. Der Inhalt kann über den Nintendo\neShop aktualisiert werden. Nintendo eShop öffnen?"
+  "0073":
+    contents:
+      - text: "Du hast nicht die neueste Version des Inhalts, also wird\nbeim Start des Spiels der Inhalt nicht berücksichtigt.\nDer Inhalt kann über den Nintendo eShop aktualisiert\nwerden. Nintendo eShop öffnen?"
+  "0074":
+    contents:
+      - text: "Du hast nicht die neueste Version des Inhalts, also wird\nbeim Start des Spiels der Inhalt nicht berücksichtigt."
+  "0075":
+    contents:
+      - text: "Möchtest du zum Titelbildschirm zurückkehren?\nNicht gespeicherter Fortschritt geht dabei verloren."
+  "0076":
+    contents:
+      - text: "Dieses Spiel ist mit der Toy-Con-VR-Brille kompatibel.\nMöchtest du sie verwenden?"
+  "0077":
+    contents:
+      - text: "Du spielst im Standardmodus.\nDie VR-Brille wird nicht verwendet.\nMöchtest du fortfahren?"
+  "0078":
+    contents:
+      - text: VR-Brille verwenden
+  "0079":
+    contents:
+      - text: VR-Brille nicht verwenden
+  "0081":
+    contents:
+      - text: "Der VR-Modus ist nicht verwendbar, da er den Alters-\nbeschränkungen unterliegt. Passe sie in den System-\neinstellungen oder in der App für die Nintendo Switch-\nAltersbeschränkungen an oder spiele im Standardmodus."
+  T_TextAdd_00:
+    contents:
+      - text: "Die folgenden Informationen sollten von einem Erwachsenen gelesen werden:"
+  T_TextAdd_01:
+    contents:
+      - text: "Wenn du die Toy-Con-VR-Brille verwendest:"
+  T_TextAdd_02:
+    contents:
+      - text: Spiele nur in sitzender Position.
+  T_TextAdd_03:
+    contents:
+      - text: Achte auf deine Umgebung und auf andere Menschen.
+  T_TextAdd_04:
+    contents:
+      - text: Lege regelmäßig eine Pause ein!
+  T_TextAdd_05:
+    contents:
+      - text: Sperre die Verwendung des VR-Modus für Kinder bis zu 6 Jahren.

@@ -1,0 +1,130 @@
+---
+group_count: 53
+atr1_unknown: 0
+entries:
+  "0004":
+    contents:
+      - text: Terug
+  "0019":
+    contents:
+      - text: Je kunt hier niet opslaan.
+  "0024":
+    contents:
+      - text: Gebruiken
+  "0025":
+    contents:
+      - text: Oppakken
+  "0027":
+    contents:
+      - text: Gebruiken
+  "0028":
+    contents:
+      - text: Verwijderen
+  "0029":
+    contents:
+      - text: Weggooien
+  "0030":
+    contents:
+      - text: "Weet je zeker dat je terug wilt\nnaar het titelscherm?"
+  "0031":
+    contents:
+      - text: Naar het titelscherm
+  "0032":
+    contents:
+      - text: Eten
+  "0034":
+    contents:
+      - text: Recept
+  "0040":
+    contents:
+      - text: Drinken
+  "0048":
+    contents:
+      - text: Activeren
+  "0049":
+    contents:
+      - text: Deactiveren
+  "0054":
+    contents:
+      - text: Bekijken
+  "0058":
+    contents:
+      - text: "Hiermee worden de huidige opgeslagen gegevens\noverschreven.\nWeet je zeker dat je dit wilt?"
+  "0059":
+    contents:
+      - text: Nieuw
+  "0062":
+    contents:
+      - text: Wil je terug naar de standaardinstellingen?
+  "0063":
+    contents:
+      - text: Ja
+  "0064":
+    contents:
+      - text: "Wil je de Nintendo eShop opstarten om\nde downloadbare content te bekijken?"
+  "0065":
+    contents:
+      - text: Ja
+  "0066":
+    contents:
+      - text: "Als je downloadbare content hebt gekocht, dan moet\nje 'The Legend of Zelda: Breath of the Wild' opnieuw\nopstarten nadat de content is gedownload om deze\nte kunnen gebruiken."
+  "0067":
+    contents:
+      - text: Oké
+  "0068":
+    contents:
+      - text: "De downloadbare content kan worden gekocht in de\nNintendo eShop. Wil je de Nintendo eShop opstarten?"
+  "0069":
+    contents:
+      - text: "Je kunt de taal van de stemmen alleen wijzigen\nvanuit het titelscherm. Wil je nu naar het titelscherm?\n\nEventuele niet-opgeslagen gegevens gaan verloren."
+  "0070":
+    contents:
+      - text: "Als je de taal van de stemmen wilt wijzigen, moet je eerst\ngratis de DLC downloaden in de Nintendo eShop.\nWil je nu naar de Nintendo eShop?"
+  "0071":
+    contents:
+      - text: Plaatsen
+  "0072":
+    contents:
+      - text: "Als je de taal van de stemmen wilt wijzigen, moet je eerst\nde nieuwste updategegevens en de nieuwste versie van\nde DLC downloaden. Je kunt de DLC bijwerken in de\nNintendo eShop. Wil je nu naar de Nintendo eShop?"
+  "0073":
+    contents:
+      - text: "Je hebt niet de nieuwste versie van de DLC, dus de\nDLC zal niet beschikbaar zijn in de game. Je kunt\nde DLC bijwerken in de Nintendo eShop. Wil je nu\nnaar de Nintendo eShop gaan?"
+  "0074":
+    contents:
+      - text: "Je hebt niet de nieuwste versie van de DLC, dus\nde DLC zal niet beschikbaar zijn in de game."
+  "0075":
+    contents:
+      - text: "Weet je zeker dat je terug wilt naar het titelscherm?\nEventuele niet-opgeslagen gegevens gaan verloren."
+  "0076":
+    contents:
+      - text: "Deze game ondersteunt de Toy-Con-VR-bril.\nWil je de VR-bril gebruiken?"
+  "0077":
+    contents:
+      - text: "De game gaat nu verder in de standaardstijl,\ndus je zult de VR-bril niet gebruiken. Is dit oké?"
+  "0078":
+    contents:
+      - text: De VR-bril gebruiken
+  "0079":
+    contents:
+      - text: De VR-bril niet gebruiken
+  "0081":
+    contents:
+      - text: "Door de beperkingen van het ouderlijk toezicht kun je de\nVR-stijl niet gebruiken. Je kunt in de standaardstijl spelen\nof het ouderlijk toezicht wijzigen in de systeeminstellingen\nof in de app 'Ouderlijk toezicht voor Nintendo Switch'."
+  T_TextAdd_00:
+    contents:
+      - text: "De volgende informatie moet door een volwassene worden gelezen:"
+  T_TextAdd_01:
+    contents:
+      - text: Over het gebruik van de Toy-Con-VR-bril
+  T_TextAdd_02:
+    contents:
+      - text: Speel alleen zittend.
+  T_TextAdd_03:
+    contents:
+      - text: Denk om je omgeving en om andere mensen.
+  T_TextAdd_04:
+    contents:
+      - text: Vergeet niet af en toe pauze te nemen.
+  T_TextAdd_05:
+    contents:
+      - text: Beperk het gebruik van de VR-stijl voor kinderen van 6 jaar of jonger.
